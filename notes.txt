@@ -1,0 +1,39 @@
+Linear regression 
+    -for predicting quantitative values
+
+Notation
+    n
+        -number of distinct data points
+    p
+        -number of variables that are available for use 
+
+    example
+        11 variables for 3000 people
+        n = 3000
+        p = 11 
+
+
+2.1: What is stastical learning?
+
+Y = f(x) + e 
+
+y = response or dependent variables
+
+x = predictors, indpendent variable, features, or just variable 
+
+e = random error term
+
+2.1.1: why estimate f? 
+
+Prediction
+    In many situation, inputs X are available, but not the output Y 
+
+    predicty Y using an estimation function 
+
+    Reducible error 
+        an error we can improve the acuracy of f
+
+    Irreducible error
+        cannot reduce the error introduced by E
+
+    
